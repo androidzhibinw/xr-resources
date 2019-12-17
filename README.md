@@ -6,3 +6,4 @@ some xr resources
 |Title|link|
 |---|-----|
 |Khronos OpenXR|https://www.khronos.org/openxr/|
+|OpenXR reference SDK |https://github.com/KhronosGroup/OpenXR-SDK-Source|
